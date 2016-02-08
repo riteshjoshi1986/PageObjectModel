@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23807" started-at="2016-02-08T16:22:45Z" finished-at="2016-02-08T16:23:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23807" started-at="2016-02-08T16:22:45Z" finished-at="2016-02-08T16:23:09Z">
+      <class name="TestCases.homePageTest">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:TestCases.homePageTest@28864e92]" name="browserLaunch" is-config="true" duration-ms="3130" started-at="2016-02-08T16:22:52Z" finished-at="2016-02-08T16:22:55Z">
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="testEditCustLinks()[pri:0, instance:TestCases.homePageTest@28864e92]" name="testEditCustLinks" duration-ms="861" started-at="2016-02-08T16:22:55Z" finished-at="2016-02-08T16:22:56Z">
+        </test-method> <!-- testEditCustLinks -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:TestCases.homePageTest@28864e92]" name="browserClose" is-config="true" duration-ms="1528" started-at="2016-02-08T16:22:56Z" finished-at="2016-02-08T16:22:57Z">
+        </test-method> <!-- browserClose -->
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:TestCases.homePageTest@28864e92]" name="browserLaunch" is-config="true" duration-ms="3226" started-at="2016-02-08T16:22:57Z" finished-at="2016-02-08T16:23:01Z">
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="testNewCustLinks()[pri:0, instance:TestCases.homePageTest@28864e92]" name="testNewCustLinks" duration-ms="1111" started-at="2016-02-08T16:23:01Z" finished-at="2016-02-08T16:23:02Z">
+        </test-method> <!-- testNewCustLinks -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:TestCases.homePageTest@28864e92]" name="browserClose" is-config="true" duration-ms="1363" started-at="2016-02-08T16:23:02Z" finished-at="2016-02-08T16:23:03Z">
+        </test-method> <!-- browserClose -->
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:TestCases.homePageTest@28864e92]" name="browserLaunch" is-config="true" duration-ms="3444" started-at="2016-02-08T16:23:03Z" finished-at="2016-02-08T16:23:07Z">
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="testdeleteCustLinks()[pri:0, instance:TestCases.homePageTest@28864e92]" name="testdeleteCustLinks" duration-ms="916" started-at="2016-02-08T16:23:07Z" finished-at="2016-02-08T16:23:08Z">
+        </test-method> <!-- testdeleteCustLinks -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:TestCases.homePageTest@28864e92]" name="browserClose" is-config="true" duration-ms="1310" started-at="2016-02-08T16:23:08Z" finished-at="2016-02-08T16:23:09Z">
+        </test-method> <!-- browserClose -->
+      </class> <!-- TestCases.homePageTest -->
+      <class name="TestCases.loginTest">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:TestCases.loginTest@721e0f4f]" name="browserLaunch" is-config="true" duration-ms="4859" started-at="2016-02-08T16:22:45Z" finished-at="2016-02-08T16:22:50Z">
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TestCases.loginTest@721e0f4f]" name="login" duration-ms="734" started-at="2016-02-08T16:22:50Z" finished-at="2016-02-08T16:22:51Z">
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:TestCases.loginTest@721e0f4f]" name="browserClose" is-config="true" duration-ms="1311" started-at="2016-02-08T16:22:51Z" finished-at="2016-02-08T16:22:52Z">
+        </test-method> <!-- browserClose -->
+      </class> <!-- TestCases.loginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
